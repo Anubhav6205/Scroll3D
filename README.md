@@ -2,6 +2,13 @@ ScrollScape3D
 
 ScrollScape3D is a captivating web page that combines stunning scroll effects and mesmerizing 3D visuals using Three.js. The page features a dynamically changing ridged structure with a trail effect, created using a planeMesh and raycaster. The colors of the scene transform as you hover over different areas, enhancing the immersive experience.
 
+Have a look=>
+
+
+https://github.com/Anubhav6205/ScrollScape3D/assets/82750157/72b606e5-6ced-491e-85d1-8233e6a30d18
+
+
+
 Technologies Used:-
 
 1)Three.js
